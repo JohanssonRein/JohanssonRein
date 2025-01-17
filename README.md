@@ -7,6 +7,6 @@
 - I am an aviation fan, I love exploring airplanes at airports all over the world : as you can tell from my profile picture,
 - which was taken inside an A320 cabin on my trip to Toronto. My favorite aircraft is Boeing 787, which I have boarded more than 10 times.
 - 
-🌱 I’m currently majring Honors Applied Mathematics at McGill Univerity, Montreal, Canada.
+🌱 I’m currently majoring Honors Applied Mathematics at McGill Univerity, Montreal, Canada.
   
 
