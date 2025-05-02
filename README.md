@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohanssonRein, an undergrad mathematican
+- 👋 Hi, I’m @JohanssonRein, a mathematican
 -
 - 👀 I’m interested in cooking, curling, and video games like Warframe, ETS2, MSFS, Halo, Minecraft, GTA, and of course, mathematics.
 
@@ -6,6 +6,5 @@
 -
 - I am an aviation fan, I love exploring airplanes at airports all over the world.
 - 
-🌱 I’m currently studying Honors Applied Mathematics at McGill Univerity, Montreal, Canada.
-  
+
 
