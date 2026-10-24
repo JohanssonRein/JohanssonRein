@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohanssonRein, a mathematican. I am an undergraduate at McGill University.
+- 👋 Hi, I’m @JohanssonRein, a mathematican. I am a masters student in statistics at the University of British Columbia
 -
 - 👀 I’m interested in cooking, curling, and video games like Warframe, ETS2, MSFS, Halo, Minecraft, GTA, and of course, mathematics.
 
